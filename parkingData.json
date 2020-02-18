@@ -1,0 +1,32 @@
+{
+  "parkingData": [
+    {
+      "category": "Developmental stage",
+      "noOfSpectra": 12
+    },
+    {
+      "category": "Disease",
+      "noOfSpectra": 6041
+    },
+    {
+      "category": "Domain",
+      "noOfSpectra": 12564
+    },
+    {
+      "category": "PTM",
+      "noOfSpectra": 11463
+    },
+    {
+      "category": "Biological process",
+      "noOfSpectra": 14789
+    },
+    {
+      "category": "Cellular component",
+      "noOfSpectra": 14665
+    },
+    {
+      "category": "Coding sequence diversity",
+      "noOfSpectra": 7608
+    }
+  ]
+}
