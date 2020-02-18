@@ -1,31 +1,31 @@
 {
   "parkingData": [
     {
-      "category": "Developmental stage",
-      "noOfSpectra": 12
+      "day": "Friday",
+      "vehicles": 12321
     },
     {
-      "category": "Disease",
-      "noOfSpectra": 6041
+      "day": "Saturday",
+      "vehicles": 8041
     },
     {
-      "category": "Domain",
-      "noOfSpectra": 12564
+      "day": "Sunday",
+      "vehicles": 12564
     },
     {
-      "category": "PTM",
-      "noOfSpectra": 11463
+      "day": "Monday",
+      "vehicles": 11463
     },
     {
-      "category": "Biological process",
-      "noOfSpectra": 14789
+      "day": "Tuesday",
+      "vehicles": 14789
     },
     {
-      "category": "Cellular component",
-      "noOfSpectra": 14665
+      "day": "Wednesday",
+      "vehicles": 14665
     },
     {
-      "category": "Coding sequence diversity",
+      "day": "Thursday",
       "noOfSpectra": 7608
     }
   ]
