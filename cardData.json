@@ -2,23 +2,23 @@
   "cardData": [
     {
       "label": "Total Parking Spaces",
-      "number": 8
+      "number": "8"
     },
     {
       "label": "Total Parking Slots",
-      "number": 15021
+      "number": "15021"
     },
     {
       "label": "Total Bookings",
-      "number": 25
+      "number": "25"
     },
     {
       "label": "Monday",
-      "number": 11463
+      "number": "11463"
     },
     {
       "label": "Locations",
-      "number": 09
+      "number": "09"
     }
   ]
 }
