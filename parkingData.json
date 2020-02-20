@@ -2,31 +2,59 @@
   "parkingData": [
     {
       "day": "Friday",
-      "vehicles": 12321
-    },
+      "vehicles":  [
+    	{
+	      "booked": "11231",
+	      "vacant": 12321
+    	}]
+  },
     {
       "day": "Saturday",
-      "vehicles": 8041
-    },
+      "vehicles":  [
+    	{
+	      "booked": "11231",
+	      "vacant": 12321
+    	}]
+  },
     {
       "day": "Sunday",
-      "vehicles": 12564
-    },
+      "vehicles":  [
+    	{
+	      "booked": "11231",
+	      "vacant": 12321
+    	}]
+  },
     {
       "day": "Monday",
-      "vehicles": 11463
-    },
+      "vehicles":  [
+    	{
+	      "booked": "11231",
+	      "vacant": 12321
+    	}]
+  },
     {
       "day": "Tuesday",
-      "vehicles": 14789
-    },
+      "vehicles":  [
+    	{
+	      "booked": "11231",
+	      "vacant": 12321
+    	}]
+  },
     {
       "day": "Wednesday",
-      "vehicles": 14665
-    },
+      "vehicles":  [
+    	{
+	      "booked": "11231",
+	      "vacant": 12321
+    	}]
+  },
     {
       "day": "Thursday",
-      "vehicles": 7608
-    }
+      "vehicles":  [
+    	{
+	      "booked": "11231",
+	      "vacant": 12321
+    	}]
+  }
   ]
 }
