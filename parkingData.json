@@ -4,49 +4,55 @@
       "day": "Friday",
       "vehicles":{
 	      "booked": "11231",
-	      "vacant": "12321"
+	      "vacant": "12321",
+"occupied":"8321"
     	}
   },
     {
       "day": "Saturday",
       "vehicles":{
 	      "booked": "10231",
-	      "vacant": "15321"
+	      "vacant": "75321"
     	}
   },
     {
       "day": "Sunday",
       "vehicles":{
 	      "booked": "14231",
-	      "vacant": "16321"
+	      "vacant": "16321",
+		"occupied":"9321"
     	}
   },
     {
       "day": "Monday",
       "vehicles":{
 	      "booked": "17231",
-	      "vacant": "13321"
+	      "vacant": "13321",
+"occupied":"10321"
     	}
   },
     {
       "day": "Tuesday",
       "vehicles":{
 	      "booked": "10131",
-	      "vacant": 12321
+	      "vacant": "12321",
+"occupied":"11321"
     	}
   },
     {
       "day": "Wednesday",
       "vehicles":{
 	      "booked": "11231",
-	      "vacant": 10921
+	      "vacant": "12921",
+"occupied":"9321"
     	}
   },
     {
       "day": "Thursday",
       "vehicles":{
 	      "booked": "11231",
-	      "vacant": 10021
+	      "vacant": "11021",
+"occupied":"9321"
     	}
   }
   ]
