@@ -12,7 +12,8 @@
       "day": "Saturday",
       "vehicles":{
 	      "booked": "10231",
-	      "vacant": "75321"
+	      "vacant": "75321",
+"occupied":"7321"
     	}
   },
     {
