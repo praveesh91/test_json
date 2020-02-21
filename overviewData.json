@@ -1,0 +1,28 @@
+{
+  "parkingOverview": [
+    {
+      "spaceName": "IBM",
+      "status":{
+          "booked": "131",
+          "vacant": "121",
+          "occupied":"831"
+    	}
+    },
+    {
+      "spaceName": "Accenture",
+      "status":{
+          "booked": "131",
+          "vacant": "321",
+          "occupied":"81"
+    	}
+    },
+    {
+      "spaceName": "Infosys",
+      "status":{
+          "booked": "112",
+          "vacant": "132",
+          "occupied":"83"
+    	}
+    }
+  ]
+}
