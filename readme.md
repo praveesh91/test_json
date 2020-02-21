@@ -1,3 +1,6 @@
+
+POINTS NOTED DURING DEVELOPMENT OF REACT(WILL FORGET) 
+
 In order to execute a function from a child component, you will need to use Refs. React supports a special attribute that you can attach to any component, that's the ref attribute, it takes a callback function, and you can access the functions of the child component in the parent accessing this.refs.REF_NAME.METHOD_NAME.
 
 
