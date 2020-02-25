@@ -6,3 +6,6 @@ In order to execute a function from a child component, you will need to use Refs
 
 Context provides a way to pass data through the component tree without having to pass props down manually at every level.ss
 
+
+API KEY=AIzaSyC8dueIYM2oGRAqzq_M4NfKIUu6gf-WbcE
+
