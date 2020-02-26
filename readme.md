@@ -9,3 +9,7 @@ Context provides a way to pass data through the component tree without having to
 
 API KEY=AIzaSyC8dueIYM2oGRAqzq_M4NfKIUu6gf-WbcE
 
+sudo lsof -i:3000
+sudo kill pid
+sudo chmod -R 777
+

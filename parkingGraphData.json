@@ -1,0 +1,92 @@
+{
+  "parkingSpace A": [
+    {
+      "time": "12:00 AM",
+      "occupied": "400"
+    },
+    {
+      "time": "04:00 AM",
+      "occupied": "200"
+    },
+    {
+      "time": "08:00 AM",
+      "occupied": "600"
+    },
+    {
+      "time": "12:00 PM",
+      "occupied": "1050"
+    },
+    {
+      "time": "04:00 PM",
+      "occupied": "1000"
+    },
+    {
+      "time": "08:00 PM",
+      "occupied": "800"
+    },
+    {
+      "time": "12:00 AM",
+      "occupied": "400"
+    }
+  ],
+  "parkingSpace B": [
+    {
+      "time": "12:00 AM",
+      "occupied": "400"
+    },
+    {
+      "time": "04:00 AM",
+      "occupied": "200"
+    },
+    {
+      "time": "08:00 AM",
+      "occupied": "600"
+    },
+    {
+      "time": "12:00 PM",
+      "occupied": "1050"
+    },
+    {
+      "time": "04:00 PM",
+      "occupied": "1000"
+    },
+    {
+      "time": "08:00 PM",
+      "occupied": "800"
+    },
+    {
+      "time": "12:00 AM",
+      "occupied": "400"
+    }
+  ],
+  "parkingSpace C": [
+    {
+      "time": "12:00 AM",
+      "occupied": "400"
+    },
+    {
+      "time": "04:00 AM",
+      "occupied": "200"
+    },
+    {
+      "time": "08:00 AM",
+      "occupied": "600"
+    },
+    {
+      "time": "12:00 PM",
+      "occupied": "1050"
+    },
+    {
+      "time": "04:00 PM",
+      "occupied": "1000"
+    },
+    {
+      "time": "08:00 PM",
+      "occupied": "800"
+    },
+    {
+      "time": "12:00 AM",
+      "occupied": "400"
+    }
+  ]
+}
