@@ -13,3 +13,22 @@ sudo lsof -i:3000
 sudo kill pid
 sudo chmod -R 777
 
+Setting state right after click
+<Button color="outline-secondary" onClick = {()=> {this.handleLine()}}><i className="fa fa-line-chart"></i></Button>
+async handleLine(){
+	await this.setState({ chartType:"Line" });
+}
+
+
+Setting state right after changing select
+<Input type="select" name="select" id="exampleSelect" onChange={(event)=> {this.handleSelect(event)}}>
+	<option value='one'>Parking Sapce A</option>
+	<option value='two'>Parking Sapce B</option>
+	<option value='three'>Parking Sapce C</option>
+	<option value='four'>Parking Sapce D</option>
+</Input>
+async handleSelect(event){
+	await this.setState({dropdownVal: event.target.value})
+	console.log("dropdownVal=",this.state.dropdownVal)
+}
+
