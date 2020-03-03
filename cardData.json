@@ -2,19 +2,23 @@
   "cardData": [
     {
       "label": "Total Parking Spaces",
-      "number": "8"
+      "number": "8",
+      "image":"https://user-images.githubusercontent.com/9131336/75747947-48471a00-5d44-11ea-9ac9-451e1b0c3f2a.png"
     },
     {
       "label": "Total Parking Slots",
-      "number": "15021"
+      "number": "15021",
+      "image":"https://user-images.githubusercontent.com/9131336/75747915-336a8680-5d44-11ea-9d7d-946c960aafd7.png"
     },
     {
       "label": "Total Bookings",
-      "number": "25"
+      "number": "25",
+      "image":"https://user-images.githubusercontent.com/9131336/75747877-1930a880-5d44-11ea-9b5e-ad2469b81960.png"
     },
     {
       "label": "Locations",
-      "number": "09"
+      "number": "09",
+      "image":"https://user-images.githubusercontent.com/9131336/75748013-70cf1400-5d44-11ea-9634-d7f6df4217c5.png"
     }
   ]
 }
