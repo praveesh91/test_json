@@ -35,7 +35,8 @@
           "Occupied":"832",
           "Unvailable":"23"
     	}
-    }, {
+    }, 
+    {
       "spaceName": "IBM Corporate Space",
       "status":{
           "Booked": "131",
@@ -70,6 +71,6 @@
           "Occupied":"832",
           "Unvailable":"23"
     	}
-    },
+    }
   ]
 }
