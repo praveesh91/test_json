@@ -35,6 +35,41 @@
           "Occupied":"832",
           "Unvailable":"23"
     	}
-    }
+    }, {
+      "spaceName": "IBM Corporate Space",
+      "status":{
+          "Booked": "131",
+          "Vacant": "121",
+          "Occupied":"831",
+          "Unvailable":"32"
+    	}
+    },
+    {
+      "spaceName": "Accenture",
+      "status":{
+          "Booked": "198",
+          "Vacant": "321",
+          "Occupied":"81",
+          "Unvailable":"56"
+    	}
+    },
+    {
+      "spaceName": "Infosys",
+      "status":{
+          "Booked": "112",
+          "Vacant": "132",
+          "Occupied":"83",
+          "Unvailable":"33"
+    	}
+    },
+    {
+      "spaceName": "Cognizant",
+      "status":{
+          "Booked": "234",
+          "Vacant": "122",
+          "Occupied":"832",
+          "Unvailable":"23"
+    	}
+    },
   ]
 }
