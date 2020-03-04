@@ -1,7 +1,7 @@
 {
   "parkingOverview": [
     {
-      "spaceName": "IBM",
+      "spaceName": "IBM Corporate Space",
       "status":{
           "Booked": "131",
           "Vacant": "121",
