@@ -2,6 +2,7 @@
   "parkingOverview": [
     {
       "spaceName": "IBM Corporate Space",
+"id": "1",
       "status":{
           "Booked": "131",
           "Vacant": "121",
@@ -11,6 +12,7 @@
     },
     {
       "spaceName": "Accenture",
+"id": "2",
       "status":{
           "Booked": "198",
           "Vacant": "321",
@@ -20,6 +22,7 @@
     },
     {
       "spaceName": "Infosys",
+"id": "3",
       "status":{
           "Booked": "112",
           "Vacant": "132",
@@ -29,6 +32,7 @@
     },
     {
       "spaceName": "Cognizant",
+"id": "4",
       "status":{
           "Booked": "234",
           "Vacant": "122",
@@ -38,6 +42,7 @@
     }, 
     {
       "spaceName": "IBM Corporate Space",
+"id": "5",
       "status":{
           "Booked": "131",
           "Vacant": "121",
@@ -47,6 +52,7 @@
     },
     {
       "spaceName": "Accenture",
+"id": "6",
       "status":{
           "Booked": "198",
           "Vacant": "321",
@@ -56,6 +62,7 @@
     },
     {
       "spaceName": "Infosys",
+"id": "7",
       "status":{
           "Booked": "112",
           "Vacant": "132",
@@ -65,6 +72,7 @@
     },
     {
       "spaceName": "Cognizant",
+"id": "8",
       "status":{
           "Booked": "234",
           "Vacant": "122",
