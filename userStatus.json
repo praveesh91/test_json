@@ -6,18 +6,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 23:00:00",
+					"start": "Apr 1, 2020 18:00:00",
+					"end": "Apr 4, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 22:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 19:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -29,18 +29,18 @@
 
 			"tz": "Asia/Kolkata",
 			"activity_periods": [{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 23:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 1, 2020 19:00:00",
+					"start": "Apr 1, 2020 18:00:00",
+					"end": "Apr 1, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -51,18 +51,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 23:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 4, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 22:00:00",
+					"start": "Apr 4, 2020 18:00:00",
+					"end": "Apr 4, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 19:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -73,18 +73,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 1, 2020 23:00:00",
+					"start": "Apr 1, 2020 18:00:00",
+					"end": "Apr 1, 2020 23:00:00",
 					"title": "Logged in"	
 				},
 				{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 19:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -95,18 +95,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 4, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 22:00:00",
+					"start": "Apr 4, 2020 18:00:00",
+					"end": "Apr 4, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 19:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -117,18 +117,18 @@
 			"real_name": "Elon Musk",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 22:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 4, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 19:00:00",
+					"start": "Apr 4, 2020 18:00:00",
+					"end": "Apr 4, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -139,18 +139,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Jan 22, 2020 18:00:00",
-					"end_time": "Jan 22, 2020 23:00:00",
+					"start": "Jan 22, 2020 18:00:00",
+					"end": "Jan 22, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 22:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 19:00:00",
+					"start": "Mar 31, 2020 18:00:00",
+					"end": "Mar 31, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -161,18 +161,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Mar 4, 2020 18:00:00",
-					"end_time": "Mar 4, 2020 23:00:00",
+					"start": "Mar 4, 2020 18:00:00",
+					"end": "Mar 4, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 19:00:00",
+					"start": "Mar 31, 2020 18:00:00",
+					"end": "Mar 31, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -183,18 +183,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Jan 21, 2020 18:00:00",
-					"end_time": "Jan 21, 2020 23:00:00",
+					"start": "Jan 21, 2020 18:00:00",
+					"end": "Jan 21, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Feb 8, 2020 18:00:00",
-					"end_time": "Feb 8, 2020 22:00:00",
+					"start": "Feb 8, 2020 18:00:00",
+					"end": "Feb 8, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 19:00:00",
+					"start": "Apr 3, 2020 18:00:00",
+					"end": "Apr 3, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -205,18 +205,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Mar 9, 2020 18:00:00",
-					"end_time": "Mar 9, 2020 23:00:00",
+					"start": "Mar 9, 2020 18:00:00",
+					"end": "Mar 9, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Feb 5, 2020 18:00:00",
-					"end_time": "Feb 5, 2020 22:00:00",
+					"start": "Feb 5, 2020 18:00:00",
+					"end": "Feb 5, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Jan 31, 2020 18:00:00",
-					"end_time": "Jan 31, 2020 19:00:00",
+					"start": "Jan 31, 2020 18:00:00",
+					"end": "Jan 31, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -227,18 +227,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 23:00:00",
+					"start": "Mar 31, 2020 18:00:00",
+					"end": "Mar 31, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Mar 19, 2020 18:00:00",
-					"end_time": "Mar 19, 2020 22:00:00",
+					"start": "Mar 19, 2020 18:00:00",
+					"end": "Mar 19, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Mar 22, 2020 18:00:00",
-					"end_time": "Mar 22, 2020 19:00:00",
+					"start": "Mar 22, 2020 18:00:00",
+					"end": "Mar 22, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -249,18 +249,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 23:00:00",
+					"start": "Mar 31, 2020 18:00:00",
+					"end": "Mar 31, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Mar 1, 2020 18:00:00",
-					"end_time": "Mar 1, 2020 22:00:00",
+					"start": "Mar 1, 2020 18:00:00",
+					"end": "Mar 1, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Feb 26, 2020 18:00:00",
-					"end_time": "Feb 26, 2020 19:00:00",
+					"start": "Feb 26, 2020 18:00:00",
+					"end": "Feb 26, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -271,18 +271,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Mar 13, 2020 18:00:00",
-					"end_time": "Mar 13, 2020 22:00:00",
+					"start": "Mar 13, 2020 18:00:00",
+					"end": "Mar 13, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Feb 12, 2020 18:00:00",
-					"end_time": "Feb 12, 2020 19:00:00",
+					"start": "Feb 12, 2020 18:00:00",
+					"end": "Feb 12, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -293,18 +293,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00",
+					"start": "Apr 1, 2020 18:00:00",
+					"end": "Apr 2, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00",
+					"start": "Apr 2, 2020 18:00:00",
+					"end": "Apr 2, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Feb 1, 2020 18:00:00",
-					"end_time": "Feb 1, 2020 19:00:00",
+					"start": "Feb 1, 2020 18:00:00",
+					"end": "Feb 1, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
@@ -315,18 +315,18 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Jan 3, 2020 18:00:00",
-					"end_time": "Jan 3, 2020 23:00:00",
+					"start": "Jan 3, 2020 18:00:00",
+					"end": "Jan 3, 2020 23:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Mar 21, 2020 18:00:00",
-					"end_time": "Mar 21, 2020 22:00:00",
+					"start": "Mar 21, 2020 18:00:00",
+					"end": "Mar 21, 2020 22:00:00",
 					"title": "Logged in"
 				},
 				{
-					"start_time": "Apr 31, 2020 18:00:00",
-					"end_time": "Apr 31, 2020 19:00:00",
+					"start": "Apr 31, 2020 18:00:00",
+					"end": "Apr 31, 2020 19:00:00",
 					"title": "Logged in"
 				}
 			]
