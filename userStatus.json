@@ -18,10 +18,7 @@
 					"end_time": "Mon Mar 1 00:00:00 GMT 2020"
 				}
 			]
-		}
-
-
-		,
+		},
 		{
 			"id": "W07QCRPA4",
 			"real_name": "Glinda Southgood",
@@ -60,234 +57,234 @@
 					"end_time": "Mar 26 00:00:00 GMT 2020"
 				}
 			]
-		}]}
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Tom Hanks",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Feb 28 00:00:00 GMT 2020",
-// 					"end_time": "Feb 28 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 22 00:00:00 GMT 2020",
-// 					"end_time": "Mar 22 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Jan 16 00:00:00 GMT 2020",
-// 					"end_time": "Jan 16 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Lyndy",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Feb 6 00:00:00 GMT 2020",
-// 					"end_time": "Feb 6 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 15 00:00:00 GMT 2020",
-// 					"end_time": "Mar 15 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Jan 21 00:00:00 GMT 2020",
-// 					"end_time": "Jan 21 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
-// 			"real_name": "Elon Musk",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Mar 21 00:00:00 GMT 2020",
-// 					"end_time": "Mar 21 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 13 00:00:00 GMT 2020",
-// 					"end_time": "Mar 13 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Jan 10 00:00:00 GMT 2020",
-// 					"end_time": "Jan 10 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "John Cena",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Mar 30 00:00:00 GMT 2020",
-// 					"end_time": "Mar 30 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 30 00:00:00 GMT 2020",
-// 					"end_time": "Mar 30 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Feb 2 00:00:00 GMT 2020",
-// 					"end_time": "Feb 2 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Janet Jackson",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Feb 23 00:00:00 GMT 2020",
-// 					"end_time": "Feb 23 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 25 00:00:00 GMT 2020",
-// 					"end_time": "Mar 25 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Jan 16 00:00:00 GMT 2020",
-// 					"end_time": "Jan 16 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Ricky Coleman",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Feb 29 00:00:00 GMT 2020",
-// 					"end_time": "Feb 29 200:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 31 00:00:00 GMT 2020",
-// 					"end_time": "Mar 31 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 9 00:00:00 GMT 2020",
-// 					"end_time": "Mar 9 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Emma Watson",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Apr 1 00:00:00 GMT 2020",
-// 					"end_time": "Apr 1 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 2 00:00:00 GMT 2020",
-// 					"end_time": "Apr 2 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 3 00:00:00 GMT 2020",
-// 					"end_time": "Apr 3 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Nikki LaudA",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Apr 3 00:00:00 GMT 2020",
-// 					"end_time": "Apr 3 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 4 00:00:00 GMT 2020",
-// 					"end_time": "Apr 4 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 16 00:00:00 GMT 2020",
-// 					"end_time": "Mar 16 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Mark Spencer",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Apr 2 00:00:00 GMT 2020",
-// 					"end_time": "Apr 2 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 1 00:00:00 GMT 2020",
-// 					"end_time": "Apr 1 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 3 00:00:00 GMT 2020",
-// 					"end_time": "Apr 3 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Rick Flair",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Apr 1 00:00:00 GMT 2020",
-// 					"end_time": "Apr 1 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 2 00:00:00 GMT 2020",
-// 					"end_time": "Apr 2 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 3 00:00:00 GMT 2020",
-// 					"end_time": "Apr 3 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Jack Sparrow",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Apr 3 00:00:00 GMT 2020",
-// 					"end_time": "Apr 3 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 2 00:00:00 GMT 2020",
-// 					"end_time": "Apr 2 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 30 00:00:00 GMT 2020",
-// 					"end_time": "Mar 30 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		},
-// 		{
-// 			"id": "W012A3CDE",
-// 			"real_name": "Ericsson Mark",
-// 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
-// 			"tz": "America/Los_Angeles",
-// 			"activity_periods": [{
-// 					"start_time": "Apr 2 00:00:00 GMT 2020",
-// 					"end_time": "Apr 2 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Apr 1 00:00:00 GMT 2020",
-// 					"end_time": "Apr 1 00:00:00 GMT 2020"
-// 				},
-// 				{
-// 					"start_time": "Mar 31 2020  5:33PM",
-// 					"end_time": "Mar 31 00:00:00 GMT 2020"
-// 				}
-// 			]
-// 		}
-// 	]
-// }
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Tom Hanks",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 28 00:00:00 GMT 2020",
+					"end_time": "Feb 28 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 22 00:00:00 GMT 2020",
+					"end_time": "Mar 22 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Jan 16 00:00:00 GMT 2020",
+					"end_time": "Jan 16 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Lyndy",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 6 00:00:00 GMT 2020",
+					"end_time": "Feb 6 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 15 00:00:00 GMT 2020",
+					"end_time": "Mar 15 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Jan 21 00:00:00 GMT 2020",
+					"end_time": "Jan 21 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
+			"real_name": "Elon Musk",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Mar 21 00:00:00 GMT 2020",
+					"end_time": "Mar 21 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 13 00:00:00 GMT 2020",
+					"end_time": "Mar 13 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Jan 10 00:00:00 GMT 2020",
+					"end_time": "Jan 10 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "John Cena",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Mar 30 00:00:00 GMT 2020",
+					"end_time": "Mar 30 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 30 00:00:00 GMT 2020",
+					"end_time": "Mar 30 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Feb 2 00:00:00 GMT 2020",
+					"end_time": "Feb 2 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Janet Jackson",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 23 00:00:00 GMT 2020",
+					"end_time": "Feb 23 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 25 00:00:00 GMT 2020",
+					"end_time": "Mar 25 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Jan 16 00:00:00 GMT 2020",
+					"end_time": "Jan 16 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Ricky Coleman",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 29 00:00:00 GMT 2020",
+					"end_time": "Feb 29 200:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 31 00:00:00 GMT 2020",
+					"end_time": "Mar 31 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 9 00:00:00 GMT 2020",
+					"end_time": "Mar 9 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Emma Watson",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Apr 1 00:00:00 GMT 2020",
+					"end_time": "Apr 1 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 2 00:00:00 GMT 2020",
+					"end_time": "Apr 2 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 3 00:00:00 GMT 2020",
+					"end_time": "Apr 3 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Nikki LaudA",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Apr 3 00:00:00 GMT 2020",
+					"end_time": "Apr 3 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 4 00:00:00 GMT 2020",
+					"end_time": "Apr 4 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 16 00:00:00 GMT 2020",
+					"end_time": "Mar 16 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Mark Spencer",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Apr 2 00:00:00 GMT 2020",
+					"end_time": "Apr 2 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 1 00:00:00 GMT 2020",
+					"end_time": "Apr 1 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 3 00:00:00 GMT 2020",
+					"end_time": "Apr 3 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Rick Flair",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Apr 1 00:00:00 GMT 2020",
+					"end_time": "Apr 1 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 2 00:00:00 GMT 2020",
+					"end_time": "Apr 2 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 3 00:00:00 GMT 2020",
+					"end_time": "Apr 3 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Jack Sparrow",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Apr 3 00:00:00 GMT 2020",
+					"end_time": "Apr 3 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 2 00:00:00 GMT 2020",
+					"end_time": "Apr 2 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 30 00:00:00 GMT 2020",
+					"end_time": "Mar 30 00:00:00 GMT 2020"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDE",
+			"real_name": "Ericsson Mark",
+			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Apr 2 00:00:00 GMT 2020",
+					"end_time": "Apr 2 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Apr 1 00:00:00 GMT 2020",
+					"end_time": "Apr 1 00:00:00 GMT 2020"
+				},
+				{
+					"start_time": "Mar 31 2020  5:33PM",
+					"end_time": "Mar 31 00:00:00 GMT 2020"
+				}
+			]
+		}
+	]
+}
