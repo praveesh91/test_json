@@ -7,15 +7,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 23:00:00"
+					"end_time": "Apr 4, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 22:00:00"
+					"end_time": "Apr 3, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 19:00:00"
+					"end_time": "Apr 2, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -27,15 +30,18 @@
 			"tz": "Asia/Kolkata",
 			"activity_periods": [{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 23:00:00"
+					"end_time": "Apr 3, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00"
+					"end_time": "Apr 2, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 1, 2020 19:00:00"
+					"end_time": "Apr 1, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -46,15 +52,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 23:00:00"
+					"end_time": "Apr 3, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 4, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 22:00:00"
+					"end_time": "Apr 4, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 19:00:00"
+					"end_time": "Apr 2, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -65,15 +74,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 1, 2020 23:00:00"
+					"end_time": "Apr 1, 2020 23:00:00",
+					"title": "Logged in"	
 				},
 				{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00"
+					"end_time": "Apr 2, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 19:00:00"
+					"end_time": "Apr 3, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -84,15 +96,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00"
+					"end_time": "Apr 2, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 4, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 22:00:00"
+					"end_time": "Apr 4, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 19:00:00"
+					"end_time": "Apr 3, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -103,15 +118,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00"
+					"end_time": "Apr 2, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 22:00:00"
+					"end_time": "Apr 3, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 4, 2020 18:00:00",
-					"end_time": "Apr 4, 2020 19:00:00"
+					"end_time": "Apr 4, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -122,15 +140,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Jan 22, 2020 18:00:00",
-					"end_time": "Jan 22, 2020 23:00:00"
+					"end_time": "Jan 22, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 22:00:00"
+					"end_time": "Apr 3, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 19:00:00"
+					"end_time": "Mar 31, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -141,15 +162,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Mar 4, 2020 18:00:00",
-					"end_time": "Mar 4, 2020 23:00:00"
+					"end_time": "Mar 4, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00"
+					"end_time": "Apr 2, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 19:00:00"
+					"end_time": "Mar 31, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -160,15 +184,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Jan 21, 2020 18:00:00",
-					"end_time": "Jan 21, 2020 23:00:00"
+					"end_time": "Jan 21, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Feb 8, 2020 18:00:00",
-					"end_time": "Feb 8, 2020 22:00:00"
+					"end_time": "Feb 8, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 3, 2020 18:00:00",
-					"end_time": "Apr 3, 2020 19:00:00"
+					"end_time": "Apr 3, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -179,15 +206,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Mar 9, 2020 18:00:00",
-					"end_time": "Mar 9, 2020 23:00:00"
+					"end_time": "Mar 9, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Feb 5, 2020 18:00:00",
-					"end_time": "Feb 5, 2020 22:00:00"
+					"end_time": "Feb 5, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Jan 31, 2020 18:00:00",
-					"end_time": "Jan 31, 2020 19:00:00"
+					"end_time": "Jan 31, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -198,15 +228,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 23:00:00"
+					"end_time": "Mar 31, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Mar 19, 2020 18:00:00",
-					"end_time": "Mar 19, 2020 22:00:00"
+					"end_time": "Mar 19, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Mar 22, 2020 18:00:00",
-					"end_time": "Mar 22, 2020 19:00:00"
+					"end_time": "Mar 22, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -217,15 +250,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Mar 31, 2020 18:00:00",
-					"end_time": "Mar 31, 2020 23:00:00"
+					"end_time": "Mar 31, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Mar 1, 2020 18:00:00",
-					"end_time": "Mar 1, 2020 22:00:00"
+					"end_time": "Mar 1, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Feb 26, 2020 18:00:00",
-					"end_time": "Feb 26, 2020 19:00:00"
+					"end_time": "Feb 26, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -236,15 +272,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00"
+					"end_time": "Apr 2, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Mar 13, 2020 18:00:00",
-					"end_time": "Mar 13, 2020 22:00:00"
+					"end_time": "Mar 13, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Feb 12, 2020 18:00:00",
-					"end_time": "Feb 12, 2020 19:00:00"
+					"end_time": "Feb 12, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -255,15 +294,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Apr 1, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 23:00:00"
+					"end_time": "Apr 2, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 2, 2020 18:00:00",
-					"end_time": "Apr 2, 2020 22:00:00"
+					"end_time": "Apr 2, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Feb 1, 2020 18:00:00",
-					"end_time": "Feb 1, 2020 19:00:00"
+					"end_time": "Feb 1, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		},
@@ -274,15 +316,18 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start_time": "Jan 3, 2020 18:00:00",
-					"end_time": "Jan 3, 2020 23:00:00"
+					"end_time": "Jan 3, 2020 23:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Mar 21, 2020 18:00:00",
-					"end_time": "Mar 21, 2020 22:00:00"
+					"end_time": "Mar 21, 2020 22:00:00",
+					"title": "Logged in"
 				},
 				{
 					"start_time": "Apr 31, 2020 18:00:00",
-					"end_time": "Apr 31, 2020 19:00:00"
+					"end_time": "Apr 31, 2020 19:00:00",
+					"title": "Logged in"
 				}
 			]
 		}
