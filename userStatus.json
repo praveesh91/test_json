@@ -6,16 +6,16 @@
 			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Mon Mar 30 00:00:00 GMT 2020",
-					"end_time": "Mon Mar 30 10:00:00 GMT 2020"
+					"start_time": "Mar 29, 2020 18:00:00",
+					"end_time": "Mar 29, 2020 18:00:00"
 				},
 				{
-					"start_time": "Mon Mar 31 00:00:00 GMT 2020",
-					"end_time": "Mon Mar 31 00:00:00 GMT 2020"
+					"start_time": "Mar 29, 2020 18:00:00",
+					"end_time": "Mar 29, 2020 18:00:00"
 				},
 				{
-					"start_time": "Mon Mar 1 00:00:00 GMT 2020",
-					"end_time": "Mon Mar 1 00:00:00 GMT 2020"
+					"start_time": "Mar 29, 2020 18:00:00",
+					"end_time": "Mar 29, 2020 18:00:00"
 				}
 			]
 		},
