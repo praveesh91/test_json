@@ -1,9 +1,10 @@
+
 {
 	"ok": true,
 	"members": [{
 			"id": "W012A3CDE",
 			"real_name": "Egon Spengler",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"profile_image":"Images/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Apr 1, 2020 18:00:00",
@@ -25,7 +26,7 @@
 		{
 			"id": "W07QCRPA4",
 			"real_name": "Glinda Southgood",
-"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+"Images/avatar2.jpg",
 
 			"tz": "Asia/Kolkata",
 			"activity_periods": [{
@@ -48,7 +49,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Jim Carey",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
+			"profile_image":"Images/avatar3.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Apr 3, 2020 18:00:00",
@@ -70,7 +71,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Tom Hanks",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"profile_image":"Images/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Apr 1, 2020 18:00:00",
@@ -92,7 +93,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Lyndy",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"profile_image":"Images/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Apr 2, 2020 18:00:00",
@@ -113,7 +114,7 @@
 		},
 		{
 			"id": "W012A3CDE",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
+			"profile_image":"Images/avatar3.png",
 			"real_name": "Elon Musk",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
@@ -136,7 +137,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "John Cena",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"profile_image":"Images/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Jan 22, 2020 18:00:00",
@@ -158,7 +159,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Janet Jackson",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"profile_image":"Images/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Mar 4, 2020 18:00:00",
@@ -180,7 +181,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Ricky Coleman",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
+			"profile_image":"Images/avatar3.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Jan 21, 2020 18:00:00",
@@ -202,7 +203,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Emma Watson",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"profile_image":"Images/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Mar 9, 2020 18:00:00",
@@ -224,7 +225,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Nikki LaudA",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"profile_image":"Images/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Mar 31, 2020 18:00:00",
@@ -246,7 +247,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Mark Spencer",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"profile_image":"Images/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Mar 31, 2020 18:00:00",
@@ -268,7 +269,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Rick Flair",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar3.png",
+			"profile_image":"Images/avatar3.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Apr 2, 2020 18:00:00",
@@ -290,7 +291,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Jack Sparrow",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar-png-1.png",
+			"profile_image":"Images/avatar-png-1.png",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Apr 1, 2020 18:00:00",
@@ -312,7 +313,7 @@
 		{
 			"id": "W012A3CDE",
 			"real_name": "Ericsson Mark",
-			"profile_image":"https://profileimagesfetch.s3.us-east-2.amazonaws.com/avatar2.jpg",
+			"profile_image":"Images/avatar2.jpg",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
 					"start": "Jan 3, 2020 18:00:00",
